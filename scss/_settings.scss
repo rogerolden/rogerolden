@@ -65,7 +65,7 @@ $global-margin: 1rem;
 $global-padding: 1rem;
 $global-weight-normal: normal;
 $global-weight-bold: bold;
-$global-radius: 0;
+$global-radius: 6px;
 $global-text-direction: ltr;
 
 // 2. Breakpoints
@@ -546,4 +546,3 @@ $topbar-padding: 0.5rem;
 $topbar-background: $light-gray;
 $topbar-title-spacing: 1rem;
 $topbar-input-width: 200px;
-
